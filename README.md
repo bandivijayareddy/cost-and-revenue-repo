@@ -46,7 +46,7 @@ The dashboard provides stakeholders with actionable insights to support informed
 - Used **Line and Stacked Column** visual to display **customer-wise gross profit and sales amount**.
 - Showcased **average target vs achieved gross profit** using a **Gauge** visual.
 - Visualized **year-wise revenue and cost of goods sold** for trend analysis.
-- Utilized a **Tree Map** visual to represent **category-wise contribution**.
+- Utilized a **Tree Map** visual to represent **Segment-wise contribution**.
 
 ---
 ## 📈 Revenue and Goods Cost
